@@ -1,0 +1,106 @@
+id,title,year,genres,director,language,keywords
+1,The Shawshank Redemption,1994,Drama,Frank Darabont,English,prison|hope|friendship|escape|redemption
+2,The Godfather,1972,Crime|Drama,Francis Ford Coppola,English,mafia|family|power|loyalty|betrayal
+3,The Dark Knight,2008,Action|Crime|Drama|Thriller,Christopher Nolan,English,superhero|vigilante|chaos|justice|joker
+4,Inception,2010,Sci-Fi|Action|Thriller,Christopher Nolan,English,dream|heist|subconscious|mind-bending|reality
+5,Interstellar,2014,Sci-Fi|Drama|Adventure,Christopher Nolan,English,space|time|wormhole|survival|father-daughter
+6,The Matrix,1999,Sci-Fi|Action,The Wachowskis,English,simulation|reality|hacker|rebellion|mind-bending
+7,Pulp Fiction,1994,Crime|Drama,Quentin Tarantino,English,hitmen|nonlinear|dark-humor|violence|gangster
+8,Forrest Gump,1994,Drama|Romance|Comedy,Robert Zemeckis,English,life-journey|history|love|friendship|inspiring
+9,Fight Club,1999,Drama|Thriller,David Fincher,English,identity|rebellion|insomnia|twist|anarchy
+10,Gladiator,2000,Action|Drama|History,Ridley Scott,English,rome|revenge|arena|empire|honor
+11,Titanic,1997,Romance|Drama|History,James Cameron,English,ship|disaster|love|class|tragedy
+12,Avatar,2009,Sci-Fi|Adventure|Action,James Cameron,English,alien-world|nature|colonization|war|spectacle
+13,Avengers: Endgame,2019,Action|Sci-Fi|Adventure,The Russo Brothers,English,superhero|time-travel|sacrifice|team|marvel
+14,Iron Man,2008,Action|Sci-Fi|Adventure,Jon Favreau,English,superhero|billionaire|technology|marvel|redemption
+15,Spider-Man: Into the Spider-Verse,2018,Animation|Action|Adventure|Sci-Fi|Family,Bob Persichetti & Peter Ramsey & Rodney Rothman,English,superhero|multiverse|coming-of-age|teen|marvel
+16,Toy Story,1995,Animation|Comedy|Family|Adventure,John Lasseter,English,toys|friendship|jealousy|pixar|childhood
+17,The Lion King,1994,Animation|Family|Drama|Musical,Roger Allers & Rob Minkoff,English,lion|kingdom|revenge|coming-of-age|disney
+18,Finding Nemo,2003,Animation|Family|Adventure|Comedy,Andrew Stanton,English,ocean|fish|father-son|search|pixar
+19,Inside Out,2015,Animation|Family|Comedy|Adventure,Pete Docter,English,emotions|childhood|mind|growing-up|pixar
+20,Up,2009,Animation|Family|Adventure|Comedy,Pete Docter & Bob Peterson,English,elderly|balloons|adventure|grief|pixar
+21,Coco,2017,Animation|Family|Fantasy|Musical,Lee Unkrich,English,music|family|afterlife|mexico|pixar
+22,WALL-E,2008,Animation|Family|Sci-Fi|Romance,Andrew Stanton,English,robot|environment|space|love|pixar
+23,Spirited Away,2001,Animation|Fantasy|Family|Adventure,Hayao Miyazaki,Japanese,japan|spirits|bathhouse|coming-of-age|ghibli
+24,Your Name,2016,Animation|Romance|Fantasy|Drama,Makoto Shinkai,Japanese,body-swap|time|japan|destiny|teen
+25,Parasite,2019,Thriller|Drama|Comedy,Bong Joon-ho,Korean,class|family|deception|wealth|dark-humor
+26,Whiplash,2014,Drama|Music,Damien Chazelle,English,drummer|obsession|mentor|ambition|jazz
+27,La La Land,2016,Musical|Romance|Drama|Comedy,Damien Chazelle,English,dreams|jazz|los-angeles|love|ambition
+28,The Social Network,2010,Drama|Biography,David Fincher,English,facebook|startup|betrayal|ambition|technology
+29,The Prestige,2006,Mystery|Thriller|Drama|Sci-Fi,Christopher Nolan,English,magicians|rivalry|obsession|twist|victorian
+30,Se7en,1995,Crime|Thriller|Mystery,David Fincher,English,serial-killer|detective|sins|dark|twist
+31,The Silence of the Lambs,1991,Crime|Thriller|Horror,Jonathan Demme,English,serial-killer|fbi|cannibal|psychological|cat-and-mouse
+32,Jurassic Park,1993,Sci-Fi|Adventure|Thriller,Steven Spielberg,English,dinosaurs|theme-park|genetics|survival|spectacle
+33,Back to the Future,1985,Sci-Fi|Comedy|Adventure,Robert Zemeckis,English,time-travel|teen|delorean|family|nostalgia
+34,The Lord of the Rings: The Fellowship of the Ring,2001,Fantasy|Adventure|Action,Peter Jackson,English,ring|quest|wizard|friendship|epic
+35,Harry Potter and the Sorcerer's Stone,2001,Fantasy|Family|Adventure,Chris Columbus,English,wizard|school|magic|friendship|orphan
+36,Star Wars: A New Hope,1977,Sci-Fi|Adventure|Fantasy,George Lucas,English,space|rebellion|empire|force|farm-boy
+37,Mad Max: Fury Road,2015,Action|Sci-Fi|Adventure,George Miller,English,post-apocalyptic|chase|desert|survival|rebellion
+38,John Wick,2014,Action|Thriller|Crime,Chad Stahelski,English,hitman|revenge|assassins|dog|gun-fu
+39,Knives Out,2019,Mystery|Comedy|Crime,Rian Johnson,English,whodunit|family|detective|murder|inheritance
+40,The Grand Budapest Hotel,2014,Comedy|Adventure|Crime,Wes Anderson,English,hotel|quirky|concierge|europe|caper
+41,Get Out,2017,Horror|Thriller|Mystery,Jordan Peele,English,racism|hypnosis|suburbs|social-commentary|twist
+42,The Conjuring,2013,Horror|Mystery|Thriller,James Wan,English,haunted-house|demons|paranormal|exorcism|family
+43,A Quiet Place,2018,Horror|Sci-Fi|Thriller|Drama,John Krasinski,English,silence|monsters|survival|family|post-apocalyptic
+44,Hereditary,2018,Horror|Mystery|Drama,Ari Aster,English,grief|cult|family|supernatural|disturbing
+45,The Notebook,2004,Romance|Drama,Nick Cassavetes,English,love|memory|summer|tearjerker|class
+46,Pride & Prejudice,2005,Romance|Drama,Joe Wright,English,regency|class|courtship|england|literary-adaptation
+47,Crazy Rich Asians,2018,Romance|Comedy|Drama,Jon M. Chu,English,wealth|singapore|family|wedding|culture
+48,The Hangover,2009,Comedy,Todd Phillips,English,bachelor-party|las-vegas|friends|blackout|raunchy
+49,Superbad,2007,Comedy,Greg Mottola,English,high-school|friendship|party|teen|raunchy
+50,Bridesmaids,2011,Comedy|Romance,Paul Feig,English,wedding|friendship|rivalry|women|raunchy
+51,Groundhog Day,1993,Comedy|Romance|Fantasy,Harold Ramis,English,time-loop|self-improvement|small-town|love|repeat
+52,Eternal Sunshine of the Spotless Mind,2004,Romance|Sci-Fi|Drama,Michel Gondry,English,memory|breakup|mind-bending|love|erasure
+53,Arrival,2016,Sci-Fi|Drama|Mystery,Denis Villeneuve,English,aliens|language|time|linguist|first-contact
+54,Blade Runner 2049,2017,Sci-Fi|Drama|Mystery|Thriller,Denis Villeneuve,English,replicants|dystopia|identity|android|future
+55,Dune,2021,Sci-Fi|Adventure|Drama|Action,Denis Villeneuve,English,desert|prophecy|empire|spice|epic
+56,The Martian,2015,Sci-Fi|Adventure|Drama,Ridley Scott,English,mars|survival|botany|space|humor
+57,Gravity,2013,Sci-Fi|Thriller|Drama,Alfonso Cuaron,English,space|survival|astronaut|debris|isolation
+58,Oppenheimer,2023,Drama|Biography|History,Christopher Nolan,English,atomic-bomb|physicist|world-war-ii|guilt|politics
+59,Schindler's List,1993,Drama|History|War|Biography,Steven Spielberg,English,holocaust|world-war-ii|rescue|moral-courage|black-and-white
+60,Saving Private Ryan,1998,War|Drama|Action,Steven Spielberg,English,world-war-ii|d-day|rescue|soldiers|sacrifice
+61,1917,2019,War|Drama|Thriller,Sam Mendes,English,world-war-i|trenches|mission|one-shot|friendship
+62,Rocky,1976,Sport|Drama,John G. Avildsen,English,boxing|underdog|philadelphia|perseverance|training
+63,Moneyball,2011,Sport|Drama|Biography,Bennett Miller,English,baseball|statistics|underdog|management|data
+64,A Beautiful Mind,2001,Biography|Drama|Romance,Ron Howard,English,mathematician|mental-illness|genius|nobel|marriage
+65,The Pursuit of Happyness,2006,Drama|Biography,Gabriele Muccino,English,homelessness|father-son|determination|stockbroker|inspiring
+66,The Truman Show,1998,Comedy|Drama|Sci-Fi,Peter Weir,English,reality-tv|surveillance|identity|fake-world|escape
+67,Casino Royale,2006,Action|Thriller|Adventure,Martin Campbell,English,spy|james-bond|poker|betrayal|espionage
+68,Mission: Impossible - Fallout,2018,Action|Thriller|Adventure,Christopher McQuarrie,English,spy|stunts|nuclear|team|chase
+69,Top Gun: Maverick,2022,Action|Drama,Joseph Kosinski,English,fighter-pilot|navy|mentor|sequel|aerial
+70,Everything Everywhere All at Once,2022,Sci-Fi|Comedy|Action|Drama|Fantasy,Daniel Kwan & Daniel Scheinert,English,multiverse|mother-daughter|absurd|family|laundromat
+71,Ratatouille,2007,Animation|Comedy|Family,Brad Bird,English,rat|chef|paris|cooking|pixar
+72,Shrek,2001,Animation|Comedy|Fantasy|Family,Andrew Adamson & Vicky Jenson,English,ogre|fairy-tale|parody|donkey|swamp
+73,Kung Fu Panda,2008,Animation|Action|Comedy|Family,Mark Osborne & John Stevenson,English,martial-arts|panda|destiny|china|underdog
+74,The Incredibles,2004,Animation|Action|Family|Adventure,Brad Bird,English,superhero|family|pixar|villain|retired
+75,The Shining,1980,Horror|Thriller,Stanley Kubrick,English,hotel|isolation|madness|haunted|winter
+76,Psycho,1960,Horror|Thriller|Mystery,Alfred Hitchcock,English,motel|twist|murder|classic|black-and-white
+77,The Exorcist,1973,Horror,William Friedkin,English,possession|demon|priest|child|religion
+78,Dunkirk,2017,War|Drama|Thriller|History,Christopher Nolan,English,world-war-ii|evacuation|survival|beach|time
+79,Braveheart,1995,History|War|Drama|Action,Mel Gibson,English,scotland|rebellion|freedom|medieval|battle
+80,Black Panther,2018,Action|Sci-Fi|Adventure,Ryan Coogler,English,superhero|wakanda|kingdom|africa|marvel
+81,Guardians of the Galaxy,2014,Action|Sci-Fi|Adventure|Comedy,James Gunn,English,space|misfits|team|marvel|humor
+82,Memento,2000,Mystery|Thriller,Christopher Nolan,English,memory-loss|revenge|nonlinear|twist|detective
+83,The Departed,2006,Crime|Thriller|Drama,Martin Scorsese,English,undercover|mob|boston|betrayal|twist
+84,Goodfellas,1990,Crime|Drama|Biography,Martin Scorsese,English,mafia|gangster|rise-and-fall|new-york|violence
+85,Zootopia,2016,Animation|Comedy|Family|Adventure,Byron Howard & Rich Moore,English,animals|detective|prejudice|city|disney
+86,3 Idiots,2009,Comedy|Drama,Rajkumar Hirani,Hindi,engineering-college|friendship|education|inspiring|campus
+87,Taare Zameen Par,2007,Drama|Family,Aamir Khan,Hindi,dyslexia|child|teacher|education|inspiring
+88,Dangal,2016,Drama|Sport|Biography,Nitesh Tiwari,Hindi,wrestling|father-daughters|inspiring|gender|underdog
+89,Zindagi Na Milegi Dobara,2011,Comedy|Drama|Adventure,Zoya Akhtar,Hindi,road-trip|friendship|spain|bachelor|self-discovery
+90,Chhichhore,2019,Comedy|Drama,Nitesh Tiwari,Hindi,college|friendship|failure|reunion|inspiring
+91,Lagaan,2001,Drama|Sport|Musical|History,Ashutosh Gowariker,Hindi,cricket|british-raj|village|underdog|tax
+92,Dil Chahta Hai,2001,Comedy|Drama|Romance,Farhan Akhtar,Hindi,friendship|goa|youth|love|coming-of-age
+93,Swades,2004,Drama,Ashutosh Gowariker,Hindi,nri|village|electricity|nation|homecoming
+94,PK,2014,Comedy|Drama|Sci-Fi,Rajkumar Hirani,Hindi,alien|religion|satire|friendship|social-commentary
+95,Queen,2013,Comedy|Drama|Adventure,Vikas Bahl,Hindi,solo-travel|self-discovery|women|wedding|europe
+96,Andhadhun,2018,Thriller|Comedy|Crime,Sriram Raghavan,Hindi,pianist|blind|murder|twist|dark-humor
+97,Drishyam,2015,Thriller|Crime|Drama,Nishikant Kamat,Hindi,family|cover-up|police|clever|suspense
+98,Gully Boy,2019,Drama|Music,Zoya Akhtar,Hindi,rap|mumbai|slum|ambition|underdog
+99,Rang De Basanti,2006,Drama|History,Rakeysh Omprakash Mehra,Hindi,patriotism|youth|freedom-fighters|activism|friendship
+100,RRR,2022,Action|Drama|History,S. S. Rajamouli,Telugu,friendship|british-raj|freedom-fighters|epic|spectacle
+101,Baahubali: The Beginning,2015,Action|Fantasy|Drama,S. S. Rajamouli,Telugu,kingdom|epic|warrior|royal-rivalry|spectacle
+102,KGF: Chapter 1,2018,Action|Crime|Drama,Prashanth Neel,Kannada,gold-mines|gangster|rise-to-power|mother|violence
+103,Kantara,2022,Action|Drama|Thriller,Rishab Shetty,Kannada,folklore|forest|tradition|deity|land-conflict
+104,Vikram,2022,Action|Thriller|Crime,Lokesh Kanagaraj,Tamil,undercover|drug-lord|revenge|ensemble|black-ops
+105,Barfi!,2012,Comedy|Drama|Romance,Anurag Basu,Hindi,deaf-mute|love|darjeeling|quirky|heartwarming
